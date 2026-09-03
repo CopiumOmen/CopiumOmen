@@ -56,10 +56,3 @@ I enjoy solving challenges involving:
 
 A Python-based tool that evaluates password strength using factors such as length, character diversity, repetition, predictable patterns, and common-password detection.
 
-
-
-
-
-## 📫 Let's Connect
-
-I'm always interested in **CTFs, cybersecurity, programming, AI/ML, and interesting technical projects**.
