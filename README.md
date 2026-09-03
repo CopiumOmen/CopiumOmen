@@ -7,12 +7,12 @@ Currently exploring **cybersecurity and CTFs**.
 
 ---
 
-## 🧠 What I'm Into
+##  What I'm Into
 
-* 🔐 **Cybersecurity & CTFs** — reversing, cryptography, web exploitation, binary analysis
-* 🐍 **Python** — automation, data analysis, security tools & projects
-* 💻 **C / C++** — low-level programming and problem solving
-* 🗄️ **Databases** — MySQL & data-driven applications
+*  **Cybersecurity & CTFs** — reversing, cryptography, web exploitation, binary analysis
+*  **Python** — automation, data analysis, security tools & projects
+*  **C / C++** — low-level programming and problem solving
+*  **Databases** — MySQL & data-driven applications
 
 ---
 
@@ -36,23 +36,23 @@ Currently exploring **cybersecurity and CTFs**.
 
 ---
 
-## 🚩 CTF / Security
+##  CTF / Security
 
 I enjoy solving challenges involving:
 
-* 🔍 Reverse engineering
-* 🔐 Cryptography & encoding
-* 🌐 Web exploitation
-* 💥 Binary exploitation
-* 🧩 Forensics & steganography
-* 🐧 Linux
-* ⚙️ Debugging & program analysis
+*  Reverse engineering
+*  Cryptography & encoding
+*  Web exploitation
+*  Binary exploitation
+*  Forensics & steganography
+*  Linux
+*  Debugging & program analysis
 
 ---
 
-## 📌 Projects
+##  Projects
 
-### 🔐 Password Security Tool
+###  Password Security Tool
 
 A Python-based tool that evaluates password strength using factors such as length, character diversity, repetition, predictable patterns, and common-password detection.
 
