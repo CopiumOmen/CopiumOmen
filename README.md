@@ -48,8 +48,6 @@ I enjoy solving challenges involving:
 * 🐧 Linux
 * ⚙️ Debugging & program analysis
 
-> **If it looks impossible, it's probably just hiding the right clue.**
-
 ---
 
 ## 📌 Projects
