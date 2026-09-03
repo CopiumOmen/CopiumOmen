@@ -3,7 +3,7 @@
 ### `Cybersecurity • CTFs • Python • Web Development `
 
 I'm a student who breaks things, figures out how they work, and tries to make them work again.
-Currently exploring **cybersecurity, software development, AI/ML, and CTFs**.
+Currently exploring **cybersecurity and CTFs**.
 
 ---
 
