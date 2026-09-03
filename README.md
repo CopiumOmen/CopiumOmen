@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hey, I'm Kabir
 
-<!--
-**CopiumOmen/CopiumOmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `Cybersecurity • CTFs • Python • Web Development `
 
-Here are some ideas to get you started:
+I'm a student who breaks things, figures out how they work, and tries to make them work again.
+Currently exploring **cybersecurity, software development, AI/ML, and CTFs**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I'm Into
+
+* 🔐 **Cybersecurity & CTFs** — reversing, cryptography, web exploitation, binary analysis
+* 🐍 **Python** — automation, data analysis, security tools & projects
+* 💻 **C / C++** — low-level programming and problem solving
+* 🗄️ **Databases** — MySQL & data-driven applications
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+`Python` `C` `C++` `SQL` `JavaScript` `HTML` `CSS`
+
+**Cybersecurity**
+
+`Linux` `Wireshark` `Burp Suite` `Nmap` `Netcat`
+
+**Development**
+
+ `MySQL` `Git` `GitHub`
+
+**Data**
+
+`NumPy` `Pandas` `Matplotlib` `Seaborn`
+
+---
+
+## 🚩 CTF / Security
+
+I enjoy solving challenges involving:
+
+* 🔍 Reverse engineering
+* 🔐 Cryptography & encoding
+* 🌐 Web exploitation
+* 💥 Binary exploitation
+* 🧩 Forensics & steganography
+* 🐧 Linux
+* ⚙️ Debugging & program analysis
+
+> **If it looks impossible, it's probably just hiding the right clue.**
+
+---
+
+## 📌 Projects
+
+### 🔐 Password Security Tool
+
+A Python-based tool that evaluates password strength using factors such as length, character diversity, repetition, predictable patterns, and common-password detection.
+
+
+
+
+
+## 📫 Let's Connect
+
+I'm always interested in **CTFs, cybersecurity, programming, AI/ML, and interesting technical projects**.
